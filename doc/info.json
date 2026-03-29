@@ -31,7 +31,7 @@
   "top_cell_name": "RFID9709",
   "release": {
     "version": "v.1.0.0",
-    "gds": "release/v.1.0.0/gds",
+    "gds": "release/v.1.0.0/gds/RFID9709.gds.gz",
     "netlist": "release/v.1.0.0/netlist",
     "doc": "release/v.1.0.0/doc"
   }
